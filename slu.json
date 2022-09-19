@@ -1,19 +1,19 @@
 {
-    "version": "0.50.0",
+    "version": "0.51.0-dev-1",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/sikalabs/slu/releases/download/v0.50.0/slu_v0.50.0_windows_386.tar.gz",
+            "url": "https://github.com/sikalabs/slu/releases/download/v0.51.0-dev-1/slu_v0.51.0-dev-1_windows_386.tar.gz",
             "bin": [
                 "slu.exe"
             ],
-            "hash": "6d693a78b3ef9ea020ad5f436830469e7fb9bc5e3b79d558a1aaee853c7b99c7"
+            "hash": "0e2240d4918bbc76ede22d9aede2d3b9c378d84e57680332323425d9e4a051f9"
         },
         "64bit": {
-            "url": "https://github.com/sikalabs/slu/releases/download/v0.50.0/slu_v0.50.0_windows_amd64.tar.gz",
+            "url": "https://github.com/sikalabs/slu/releases/download/v0.51.0-dev-1/slu_v0.51.0-dev-1_windows_amd64.tar.gz",
             "bin": [
                 "slu.exe"
             ],
-            "hash": "e77e44a94227b96fb2a75b65e446d539ba0b3117a814f7884a307563e39abd89"
+            "hash": "43738ea7f10536664d62ad21b2e1bca299d97125e0570a248ceb8c873fcd3ff8"
         }
     },
     "homepage": "https://github.com/sikalabs/slu",
