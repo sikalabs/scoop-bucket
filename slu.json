@@ -6,14 +6,14 @@
             "bin": [
                 "slu.exe"
             ],
-            "hash": "5285d9b4d7dff55646cd993f1c39d2bb975b08fb3653acf7cb2a1d76e1355e3a"
+            "hash": "12e1ee28d28e4711f1f192b779b27059c1fe88c217bf79635b88abd426648c84"
         },
         "64bit": {
             "url": "https://github.com/sikalabs/slu/releases/download/v0.53.0/slu_v0.53.0_windows_amd64.tar.gz",
             "bin": [
                 "slu.exe"
             ],
-            "hash": "bdc340f2a1f791ce929297f530b53307dee512106c0b0f17c4e85172485258fc"
+            "hash": "952897b5352d65c121e9864ec0d91f3b060d51471043cbc0f76d624a28b4870c"
         }
     },
     "homepage": "https://github.com/sikalabs/slu",
